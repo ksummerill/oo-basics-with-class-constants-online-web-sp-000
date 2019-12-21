@@ -15,5 +15,3 @@ class Shoe
   end
 BRANDS.unique
 end
-
-
